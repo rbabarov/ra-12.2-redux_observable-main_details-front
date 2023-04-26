@@ -1,8 +1,7 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a02i2ur7swov5eh3/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ra-12-2-redux-observable-main-details-front/branch/master)
 
 # Список и детали
 
-### Deployment: <a href="https://sergius92739.github.io/ra-12.2-redux_observable-main_details-front/">Github Pages</a>
+### Deployment: <a href="https://rbabarov.github.io/ra-12.2-redux_observable-main_details-front/">Github Pages</a>
 
 Напишите проект, использующий React Router и Redux Observable, который удовлетворяет следующим условиям:
 
